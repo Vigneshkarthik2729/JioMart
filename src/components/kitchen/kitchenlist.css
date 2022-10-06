@@ -1,0 +1,41 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding-top: 12%;
+}
+
+.kitchen{
+    border: 2px solid black;
+    border-radius: 25px;
+    width: 300px;
+    height: 420px;
+    margin: 25px;
+    margin-left: 55px;
+}
+
+.Kname{
+    font-size: 28px;
+    text-align: center;
+    /* margin-right: 30px; */
+}
+.kprice{
+    font-size: 20px;
+    text-align: center;
+}
+
+.koffer{
+    font-size: 20px;
+    text-align: center;
+}
+
+.kmodel{
+    font-size: 20px;
+    text-align: center;
+}
+
+
+.kimage{
+    width: 200px;
+    height: 100px;
+    margin: 40px;
+}

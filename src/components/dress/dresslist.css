@@ -1,0 +1,28 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding-top: 12%;
+}
+
+.dress{
+    border: 2px solid black;
+    width: 200px;
+    height: 350px;
+    margin: 25px;
+}
+
+.dname{
+    font-size: 30px;
+    text-align: center;
+    margin: 30px;
+}
+.dprice{
+    font-size: 25px;
+    text-align: center;
+}
+
+.dimage{
+    width: 200px;
+    height: 100px;
+    margin: 30px;
+}

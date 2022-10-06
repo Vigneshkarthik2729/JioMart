@@ -1,0 +1,35 @@
+*{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.container {
+       width: auto;
+       height: 100px;
+       background-color: #008ECC;
+}
+
+.header-wrapper {
+    display: flex;
+    padding-top: 2%;
+}
+
+.label{
+    color: white;
+    font-size: 40px;
+}
+
+.search{
+    width: 600px;
+}
+
+.navbar{
+    margin-right: 15px;
+}
